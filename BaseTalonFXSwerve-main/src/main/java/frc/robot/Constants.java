@@ -22,8 +22,8 @@ public final class Constants {
         COTSTalonFXSwerveConstants.SDS.MK4.Falcon500(COTSTalonFXSwerveConstants.SDS.MK4.driveRatios.L2);
 
         /* Drivetrain Constants */
-        public static final double trackWidth = Units.inchesToMeters(29.25); 
-        public static final double wheelBase = Units.inchesToMeters(29.25); 
+        public static final double trackWidth = Units.inchesToMeters(29); 
+        public static final double wheelBase = Units.inchesToMeters(29); 
         public static final double wheelCircumference = chosenModule.wheelCircumference;
 
         /* Swerve Kinematics 
